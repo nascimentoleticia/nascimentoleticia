@@ -13,7 +13,7 @@
 <br>
 
 &emsp;Siga-me no Linkedin: <br>
-&emsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)](https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)
+&emsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-nascimento-soares-336ba9225/)](https://www.linkedin.com/in/leticia-nascimento-soares-336ba9225/)
 
 <br>
 <br>
